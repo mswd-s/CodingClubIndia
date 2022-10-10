@@ -1,8 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-
-
-
 int main(){
 int tatab;
 cin>>tatab;
@@ -18,12 +15,7 @@ while(tatab--){
     
     else if( a<2 || b<2) cout<<"NO"<<endl;
     
-    
-    
     else cout<<"YES"<<endl;
 }
-
-
-
-    return 0;
+     return 0;
 }
